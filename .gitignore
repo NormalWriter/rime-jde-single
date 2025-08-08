@@ -1,0 +1,7 @@
+### IntelliJ IDEA ###
+.idea/*
+
+### Mac OS ###
+.DS_Store
+
+sync.ffs_db
